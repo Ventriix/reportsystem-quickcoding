@@ -1,0 +1,8 @@
+name: ReportSystem
+version: 1.0
+author: Ventriix
+website: https://variaty.eu
+description: ReportSystem quickcoding
+main: de.ventriix.reportsystem.core.ReportSystem
+commands:
+  report:

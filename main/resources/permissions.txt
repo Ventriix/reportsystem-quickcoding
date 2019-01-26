@@ -1,0 +1,5 @@
+reportsystem.report.accept
+reportsystem.report.send
+reportsystem.report.bypass
+reportsystem.notify
+reportsystem.*
